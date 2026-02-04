@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] | AI Product Engineer 🚀
+# Hi, I'm Winnie Mango | AI Product Engineer 🚀
 
 I am a **Founding Engineer** specializing in high-velocity product development. I leverage AI orchestration to bridge the gap between complex business problems and production-ready SaaS.
 
