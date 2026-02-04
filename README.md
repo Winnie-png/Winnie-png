@@ -3,8 +3,8 @@
 I am a **Founding Engineer** specializing in high-velocity product development. I leverage AI orchestration to bridge the gap between complex business problems and production-ready SaaS.
 
 ### 🛠️ What I’m Building
-- **[Tiny Wins Club](https://github.com/Winnie-png/tinywinsclub) A monetized micro-habit app. I architected the tiered-access logic (Free/Pro) and a unified M-Pesa/Card payment router.
-- **[SwiftKopa](Link-To-Repo):** A fintech solution built with Supabase, focusing on secure data isolation (RLS) and automated financial workflows.
+- [Tiny Wins Club](https://github.com/Winnie-png/tinywinsclub) A monetized micro-habit app. I architected the tiered-access logic (Free/Pro) and a unified M-Pesa/Card payment router.
+- [SwiftKopa](https://github.com/Winnie-png/swiftkopa-app) A fintech solution built with Supabase, focusing on secure data isolation (RLS) and automated financial workflows.
 
 ### 🧠 My "Integrator" Stack
 - **AI Orchestration:** Lovable Cloud, GPT-4o, AI-Native Prototyping.
