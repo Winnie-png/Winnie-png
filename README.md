@@ -62,7 +62,7 @@ My work included:
 - Product rules and edge cases
 - AI-assisted implementation using Lovable and Supabase
 
-"View SwiftKopa" (https://github.com/Winnie-png/swiftkopa-app)
+"View SwiftKopa" (https://swiftkopa-loans.lovable.app)
 
 How I Build
 
