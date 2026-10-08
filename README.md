@@ -1,6 +1,5 @@
 Hi, I'm Winnie Mango
-
-AI-Assisted Product Builder | Product Design & UX
+Product Builder | Product Design & UX
 
 I build digital products from idea to working application, using AI-assisted development to turn product requirements and UX decisions into real, testable experiences.
 
