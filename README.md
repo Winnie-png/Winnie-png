@@ -1,15 +1,16 @@
 Hi, I'm Winnie Mango
+
 Product Builder | Product Design & UX
 
-I build digital products from idea to working application, using AI-assisted development to turn product requirements and UX decisions into real, testable experiences.
+I build digital products from idea to working application, turning product requirements and UX decisions into real, testable experiences.
 
-My work sits at the intersection of product thinking, UX, technology, and business. I enjoy taking an idea, working through the user journey and product rules, building the experience with AI-assisted tools, and iterating until the product feels simple and useful.
+My work brings together product thinking, UX, technology, and business. I enjoy working through user journeys, defining how a product should behave, making decisions about the user experience, and improving the result through testing and iteration.
 
 Selected Work
 
 🕯️ Vigil — Prayer & Fasting PWA
 
-A mobile-first prayer and fasting product designed around weekly rhythms, prayer sessions, personal progress, and reflection.
+A mobile-first prayer and fasting product built around weekly rhythms, prayer sessions, personal progress, and reflection.
 
 My work included:
 
@@ -17,73 +18,68 @@ My work included:
 - Onboarding and commitment flow
 - Weekly fasting experience
 - Prayer timer and prayer-item flows
-- Journal and progress experience
+- Journaling and progress tracking
 - Free/Pro product boundaries
 - Subscription and payment integration
 - UX iteration and responsive interface design
-- AI-assisted implementation using Lovable
 
 "View Vigil" (https://vigil-prayer-fasting.lovable.app)
 
----
-
 ✨ TinyWins — Daily Wins
 
-A simple daily-wins product built around recording small accomplishments, progress, badges, and a free/Pro experience.
+A daily-wins product focused on recording small accomplishments, tracking progress, earning badges, and building consistent habits.
 
 My work included:
 
-- Core product interaction and user flow
-- Wins jar experience
-- Add-a-win flow
+- Core product interactions and user flows
+- Wins jar and add-a-win experience
 - Badges and progress feedback
-- Stats and retention features
+- Statistics and retention features
 - Free/Pro product boundaries
 - Paystack payment and webhook integration
-- AI-assisted implementation using Lovable
 
 "View TinyWins" (https://tinywinsclub.lovable.app)
 
----
-
 💰 SwiftKopa — Digital Lending Product
 
-A digital lending product focused on borrower applications, secured and unsecured lending workflows, collateral requirements, and portfolio monitoring.
+A digital lending product focused on borrower applications, secured and unsecured lending, collateral requirements, and portfolio monitoring.
 
 My work included:
 
-- Borrower journey and loan application flow
+- Borrower journeys and loan application flows
 - Verification and application progress
 - Secured lending and collateral workflows
 - Document requirements and upload states
 - Loan status and history experience
 - Admin portfolio monitoring
 - Product rules and edge cases
-- AI-assisted implementation using Lovable and Supabase
 
 "View SwiftKopa" (https://swiftkopa-loans.lovable.app)
 
 How I Build
 
-I use AI as an implementation partner, not as a replacement for product thinking.
+My process typically follows:
 
-My process typically involves:
+Idea → User journey → Product requirements → UX decisions → Implementation → Testing → Iteration → Launch
 
-Idea → User journey → Product requirements → UX decisions → AI-assisted implementation → Testing → Iteration → Launch
+I use modern development tools to turn product ideas and UX decisions into working products. I focus on how the product should work, what users need, and how the experience can be improved.
 
-I'm particularly interested in the intersection of AI, product design, and building — and in learning from experienced product and engineering teams while contributing through hands-on product work.
+I'm particularly interested in product design, AI-powered products, and the connection between good user experiences and practical implementation.
 
 Experience
 
-QA Team Lead — Scale/Remotasks
+QA Team Lead — Remotasks
 2019–2024
 
-Coordinated a distributed team of approximately 30 contributors, managed task allocation and quality, and worked systematically through review, feedback, and accuracy requirements.
+- Coordinated a distributed team of approximately 30 contributors.
+- Managed task allocation, quality reviews, and feedback.
+- Worked systematically through accuracy requirements and quality improvement.
 
 Financial Advisor — CIC Group Ltd
 2017–2019
 
-Worked directly with customers to understand financial needs and guide them through insurance solutions and the sales process.
+- Worked directly with customers to understand their financial needs.
+- Guided customers through insurance solutions and the sales process.
 
 Education & Learning
 
@@ -95,7 +91,11 @@ Google Cybersecurity Professional Certificate — Coursera
 Microsoft Cybersecurity Analyst Professional Certificate — Coursera
 
 UX Design — CareerFoundry
-Introductory UX Design study
+Introductory UX design study
+
+Tools & Technologies
+
+Lovable · Supabase · React · Paystack · APIs & Webhooks · GitHub · Figma
 
 Contact
 
